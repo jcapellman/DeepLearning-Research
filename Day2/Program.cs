@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Day2
+{
+    class Day2
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
